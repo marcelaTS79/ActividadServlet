@@ -1,0 +1,7 @@
+com\mycompany\crudusuario\resources\JakartaEE10Resource.class
+web\ServletControlador.class
+com\mycompany\crudusuario\JakartaRestConfiguration.class
+dominio\usuario.class
+datos\usuarioDAOJDBC.class
+datos\Conexion.class
+controladores\RecibeDatos.class

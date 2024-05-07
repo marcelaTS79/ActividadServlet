@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.crudusuario"},{"l":"com.mycompany.crudusuario.resources"},{"l":"controladores"},{"l":"datos"},{"l":"dominio"},{"l":"web"}];updateSearchResults();
